@@ -5,7 +5,7 @@
 
 <!--Passionate about-->
 
-<h3 align="center">A Passionate Web developer from India</h3>
+<h3 align="center">A Passionate Coder from India</h3>
 
 <!--Trophy-->
 <p align="left">
